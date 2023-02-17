@@ -7,8 +7,7 @@ function sendMessage() {
     console.log(email);
     console.log(subject);
     console.log(message);
-
-
+    
     Email.send({
         Host: "smtp.elasticemail.com",
         Username: "info@sureshyadav.info.np",
