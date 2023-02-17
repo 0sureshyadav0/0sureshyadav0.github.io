@@ -9,7 +9,7 @@ function sendMessage() {
     console.log(message);
 
     Email.send({
-        Host: "https://smtp.elasticemail.com",
+        Host: "smtp.elasticemail.com",
         Username: "info@sureshyadav.info.np",
         Password: "781BCC35845536BE80D3578E704FB563102D",
         To: "sureshyadav.info.np@gmail.com",
@@ -18,5 +18,6 @@ function sendMessage() {
         Body: message
     }).then(
         message => alert(message)
+        
     );
 }
