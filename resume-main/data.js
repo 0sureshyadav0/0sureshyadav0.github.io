@@ -2,7 +2,7 @@ const userDetails = {
     name: "Suresh Yadav",
     designation: "Full Stack Software Engineer",
     // A multi-skilled and dedicated IT professional with over 5 years of experience, adept in software development, well-versed in different programming languages. Well-rounded experience in OOPs, mobile development and user-centered design. A prodigy in learning new technologies. Strong background in team management and delegation.
-    description: "A person who is more enthusiast in tech with an experience of two year in HTML, CSS, JS, PHP, MySQL, Flutter, Dart & C  as well as an experienced person in Android and iOS development. I can provide you with application & web development using Flutter framework. For more info visit: https://sureshyadav.info.np/",
+    description: "A person who is more enthusiast in tech with an experience of two year in HTML, CSS, JS, PHP, MySQL, Flutter, Dart & C  as well as an experienced person in Android and iOS development. I can provide you with application & web development using Flutter framework. As I am mostly a self-learner, I can easily adapt to new things and always ready to take on a challenge. For more info visit: https://sureshyadav.info.np/",
     picture: {
         src: "suresh.jpg",
         link: "https://www.linkedin.com/in/rajyadavnp"
