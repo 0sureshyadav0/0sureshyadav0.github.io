@@ -140,7 +140,7 @@ const skills = [
         icon: "fa fa-code",
         title: "Other Languages & Frameworks",
         scale: 3,
-        tech: ["C", "C++"],
+        tech: ["C", "C++","JAVA"],
         lib: ["ASP.NET", "Lucene Elastic Search", "Rust", "C#.NET"]
     },
     // {
