@@ -1,0 +1,25 @@
+@media screen and (min-width:460px) {
+    #navbar{
+        display: block;
+    }
+    #hamburger{
+        display: none;
+    }
+    #hamburgerMenu{
+        display:none; 
+     }
+}
+@media screen and (max-width:460px) {
+   #navbar{
+    display: none;
+   }
+   #hamburger{
+    display: flex;
+    flex-direction:row-reverse;
+   padding:.5rem;
+   }
+   #hamburgerMenu{
+    display:none; 
+ }
+ 
+}

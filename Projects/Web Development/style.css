@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.material-symbols-outlined {
+
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+#navbar{
+    background-color: grey;
+    
+    margin:auto;
+}
+#navbar ul{
+    display: flex;
+    flex-direction: row;
+    flex-direction: end;
+    padding:0.1rem;
+    
+}
+#navbar ul li{
+    list-style: none;
+    padding:1rem;
+}
+#navbar ul li a{
+    text-decoration: none;
+    color:black;
+}
+#hamburger{
+    background-color: rgb(201, 142, 142);
+}
+#hamburgerMenu{
+    display: flex;
+  
+   
+    height: 10rem;
+    justify-content: center;
+  
+}
+#hamburgerMenu li{
+    padding:.5rem;
+    list-style: none;
+}
+#close{
+    display: none;
+}
