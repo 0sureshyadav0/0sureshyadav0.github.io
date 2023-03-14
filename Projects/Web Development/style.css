@@ -54,3 +54,8 @@
 #container{
     padding:1rem;
 }
+#image img{
+    display: block;
+    width:100%;
+
+}

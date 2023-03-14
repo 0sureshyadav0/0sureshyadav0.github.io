@@ -17,5 +17,9 @@ function showMenu() {
     document.getElementById("close").style.display = "flex";
     isEnable = true;
   }
+  window.addEventListener("scroll",animate);
+  function animate(){
+    
+  }
   // animation-name:showMenu;animation-duration:.5s;animation-direction:reverse;
 }
